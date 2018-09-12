@@ -1,4 +1,4 @@
-package com.xuzhong.rpc.common.data;
+package com.xuzhong.rpc.common;
 
 /**
  * represent a response from remote server

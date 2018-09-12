@@ -6,8 +6,6 @@ import java.util.Observable;
 import java.util.Observer;
 import java.util.concurrent.ConcurrentHashMap;
 
-import com.xuzhong.rpc.common.data.IResponse;
-
 public class IResponseObserver implements Observer {
 
 	private InetSocketAddress address;

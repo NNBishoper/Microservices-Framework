@@ -2,8 +2,8 @@ package com.xuzhong.rpc.client;
 
 import java.lang.reflect.Method;
 
-import com.xuzhong.rpc.common.data.IRequest;
-import com.xuzhong.rpc.common.data.IResponse;
+import com.xuzhong.rpc.common.IRequest;
+import com.xuzhong.rpc.common.IResponse;
 
 /**
  * a invoker is used to invoke remote service (or method), binding to a specific server

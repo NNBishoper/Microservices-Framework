@@ -9,10 +9,10 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
+import com.xuzhong.rpc.common.IRequest;
+import com.xuzhong.rpc.common.IResponse;
 import com.xuzhong.rpc.common.IResponseObservable;
 import com.xuzhong.rpc.common.IResponseObserver;
-import com.xuzhong.rpc.common.data.IRequest;
-import com.xuzhong.rpc.common.data.IResponse;
 import com.xuzhong.rpc.facet.Log;
 import com.xuzhong.rpc.util.ProtostuffUtil;
 import com.xuzhong.rpc.util.SerialNumberUtil;

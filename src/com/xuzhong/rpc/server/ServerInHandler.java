@@ -1,7 +1,7 @@
 package com.xuzhong.rpc.server;
 
-import com.xuzhong.rpc.common.data.IRequest;
-import com.xuzhong.rpc.common.data.IResponse;
+import com.xuzhong.rpc.common.IRequest;
+import com.xuzhong.rpc.common.IResponse;
 import com.xuzhong.rpc.facet.Log;
 import com.xuzhong.rpc.service.ComputeService;
 import com.xuzhong.rpc.service.ComputeServiceImpl;

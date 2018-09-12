@@ -1,4 +1,4 @@
-package com.xuzhong.rpc.common.data;
+package com.xuzhong.rpc.common;
 
 import java.lang.reflect.Method;
 import java.util.Arrays;

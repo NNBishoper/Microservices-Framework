@@ -2,8 +2,8 @@ package com.xuzhong.rpc.client;
 
 import java.net.InetSocketAddress;
 
+import com.xuzhong.rpc.common.IResponse;
 import com.xuzhong.rpc.common.IResponseObservable;
-import com.xuzhong.rpc.common.data.IResponse;
 import com.xuzhong.rpc.facet.Log;
 import com.xuzhong.rpc.util.ProtostuffUtil;
 
